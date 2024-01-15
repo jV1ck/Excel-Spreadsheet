@@ -1,0 +1,5 @@
+/Users/jordanvick/Desktop/Vick ELEC278 Code/build/CMakeFiles/model.dir
+/Users/jordanvick/Desktop/Vick ELEC278 Code/build/CMakeFiles/interactive.dir
+/Users/jordanvick/Desktop/Vick ELEC278 Code/build/CMakeFiles/testrunner.dir
+/Users/jordanvick/Desktop/Vick ELEC278 Code/build/CMakeFiles/edit_cache.dir
+/Users/jordanvick/Desktop/Vick ELEC278 Code/build/CMakeFiles/rebuild_cache.dir

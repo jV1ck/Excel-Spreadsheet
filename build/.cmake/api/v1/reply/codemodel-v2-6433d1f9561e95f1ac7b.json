@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "assignment",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "interactive::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interactive-Debug-a1b372c20d6ae64720eb.json",
+					"name" : "interactive",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "model::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-model-Debug-5633d0dfceb71c4e5aa1.json",
+					"name" : "model",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testrunner::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testrunner-Debug-3cd880e77d37e0032698.json",
+					"name" : "testrunner",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jordanvick/Desktop/Vick ELEC278 Code/build",
+		"source" : "/Users/jordanvick/Desktop/Vick ELEC278 Code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

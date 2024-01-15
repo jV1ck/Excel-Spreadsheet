@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/jordanvick/Desktop/Vick ELEC278 Code/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/model.dir/model.c.o -c \"/Users/jordanvick/Desktop/Vick ELEC278 Code/model.c\"",
+  "file": "/Users/jordanvick/Desktop/Vick ELEC278 Code/model.c",
+  "output": "CMakeFiles/model.dir/model.c.o"
+},
+{
+  "directory": "/Users/jordanvick/Desktop/Vick ELEC278 Code/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/interactive.dir/interface.c.o -c \"/Users/jordanvick/Desktop/Vick ELEC278 Code/interface.c\"",
+  "file": "/Users/jordanvick/Desktop/Vick ELEC278 Code/interface.c",
+  "output": "CMakeFiles/interactive.dir/interface.c.o"
+},
+{
+  "directory": "/Users/jordanvick/Desktop/Vick ELEC278 Code/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/testrunner.dir/testrunner.c.o -c \"/Users/jordanvick/Desktop/Vick ELEC278 Code/testrunner.c\"",
+  "file": "/Users/jordanvick/Desktop/Vick ELEC278 Code/testrunner.c",
+  "output": "CMakeFiles/testrunner.dir/testrunner.c.o"
+},
+{
+  "directory": "/Users/jordanvick/Desktop/Vick ELEC278 Code/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/testrunner.dir/tests.c.o -c \"/Users/jordanvick/Desktop/Vick ELEC278 Code/tests.c\"",
+  "file": "/Users/jordanvick/Desktop/Vick ELEC278 Code/tests.c",
+  "output": "CMakeFiles/testrunner.dir/tests.c.o"
+}
+]
